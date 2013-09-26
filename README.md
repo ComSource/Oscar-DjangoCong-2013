@@ -1,6 +1,4 @@
-# MicroGeno
-
-> Django mérite bien un Oscar
+# Django mérite bien un oscar
 
 * Place: DjangoCong 2013, UTBM, Belfort (France)
 * Date: September, 28th 2013
