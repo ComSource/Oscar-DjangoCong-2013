@@ -14,6 +14,4 @@
 
 Watch this presentation in your browser here:
 
-[http://comsource.github.io/Oscar-DjangoCong-2013
-/](http://comsource.github.io/Oscar-DjangoCong-2013
-/)
+[http://comsource.github.io/Oscar-DjangoCong-2013/](http://comsource.github.io/Oscar-DjangoCong-2013/)
